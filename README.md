@@ -12,7 +12,7 @@ This is a simple web-based drum kit project that allows users to play drum sound
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Kveer93/drum-kit.git
+   git clone [https://github.com/Kveer93/drum-kit.git]
 2. Open the index.html file in your web browser.
 3. Click the drum buttons or press the keys 'w', 'a', 's', 'd', 'j', 'k', 'l' to play the corresponding drum sounds.
 
